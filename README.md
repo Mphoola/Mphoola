@@ -1,6 +1,6 @@
 ### Hi there 👋 Am Promise Mphoola from Malawi.
 ### 🌱 I’m interested in Software Developement especially web and android development.
-### 🔭 I’m currently working at TNM Mpamba as a Mobile Money Integrations Officer.
+### 🔭 I’m currently working at Malawi University of Science and Technology (MUST) as a Systems Developer.
 ### 💞️ I’m looking to collaborate on all projects that use Spring Boot, PHP/Laravel, JavaScript/Vue or Kotlin.
 ### 📫 How to reach me, You may send me an email to promisemphoola2@gmail.com
 
