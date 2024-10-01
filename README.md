@@ -1,8 +1,8 @@
-### Hi there 👋 Am Promise Mphoola from Malawi.
-### 🌱 I’m interested in Software Developement especially web and android development.
-### 🔭 I’m currently working at Malawi University of Science and Technology (MUST) as a Systems Developer.
-### 💞️ I’m looking to collaborate on all projects that use Spring Boot, PHP/Laravel, JavaScript/Vue or Kotlin.
-### 📫 How to reach me, You may send me an email to promisemphoola2@gmail.com
+### Hi there 👋 I Am Promise Mphoola from Malawi.
+### 🌱 I’m interested in Software development, especially web and Android development.
+### 🔭 I work as a Systems Developer at Malawi University of Science and Technology (MUST).
+### 💞️ I want to collaborate on all projects that use PHP/Laravel, JavaScript/Vue, or C#/ASP.NET.
+### 📫 How to reach me, You may send me an email at promisemphoola2@gmail.com
 
 <!--
 **Mphoola/mphoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
