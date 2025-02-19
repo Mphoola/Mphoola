@@ -1,7 +1,7 @@
 ### Hi there 👋 I Am Promise Mphoola from Malawi.
 ### 🌱 I’m interested in Software development, especially web and Android development.
 ### 🔭 I work as a Systems Developer at Malawi University of Science and Technology (MUST).
-### 💞️ I want to collaborate on all projects that use PHP/Laravel, JavaScript/Vue, or C#/ASP.NET.
+### 💞️ I want to collaborate on all projects that use PHP/Laravel, JavaScript/Vue, or C#/ASP.NET and React/React Native.
 ### 📫 How to reach me, You may send me an email at promisemphoola2@gmail.com
 
 <!--
